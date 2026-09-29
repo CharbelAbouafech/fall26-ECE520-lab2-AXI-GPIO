@@ -1,0 +1,229 @@
+!SESSION 2026-09-28 19:07:53.075 -----------------------------------------------
+eclipse.buildId=2023.1
+java.version=11.0.16.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+This is a continuation of log file C:\Users\Char\Documents\ECE_520\Fall_26\axi_gpio_caa\axi_gpio_vitis\.metadata\.bak_0.log
+Created Time: 2026-09-28 19:33:11.483
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.483
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.483
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.483
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.499
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.499
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.499
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.499
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.515
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.515
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.524
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.524
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.531
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.531
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.531
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.531
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.547
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.547
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.547
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.547
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.562
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.562
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.562
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.562
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.584
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.584
+!MESSAGE XSCT Command: [jtag targets -set -filter {name =~ "Digilent Zybo Z7 210351BE7AA2A" && level == 0}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.594
+!MESSAGE XSCT command with result: [jtag targets -set -filter {name =~ "Digilent Zybo Z7 210351BE7AA2A" && level == 0}], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.594
+!MESSAGE XSCT Command: [jtag frequency], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.594
+!MESSAGE XSCT command with result: [jtag frequency], Result: [null, 15000000]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.594
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.594
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.594
+!MESSAGE XSCT Command: [rst -system], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.674
+!MESSAGE XSCT command with result: [rst -system], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:11.674
+!MESSAGE XSCT Command: [after 3000], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.692
+!MESSAGE XSCT command with result: [after 3000], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.709
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.709
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Digilent Zybo Z7 210351BE7AA2A]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.709
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.726
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.726
+!MESSAGE XSCT Command: [targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351BE7AA2A-13722093-0"}], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.740
+!MESSAGE XSCT command with result: [targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351BE7AA2A" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351BE7AA2A-13722093-0"}], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:14.740
+!MESSAGE XSCT Command: [fpga -file C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_app/_ide/bitstream/axi_gpio_caa_wrapper.bit], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:15.961
+!MESSAGE XSCT command with result: [fpga -file C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_app/_ide/bitstream/axi_gpio_caa_wrapper.bit], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:15.973
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:15.994
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:15.994
+!MESSAGE XSCT Command: [loadhw -hw C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_plat/export/axi_gpio_plat/hw/axi_gpio_caa_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.005
+!MESSAGE XSCT command with result: [loadhw -hw C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_plat/export/axi_gpio_plat/hw/axi_gpio_caa_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs], Result: [null, axi_gpio_caa_wrapper_8]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.005
+!MESSAGE XSCT Command: [configparams force-mem-access 1], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.005
+!MESSAGE XSCT command with result: [configparams force-mem-access 1], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.005
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.029
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.029
+!MESSAGE XSCT Command: [source C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_app/_ide/psinit/ps7_init.tcl], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.029
+!MESSAGE XSCT command with result: [source C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_app/_ide/psinit/ps7_init.tcl], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.029
+!MESSAGE XSCT Command: [ps7_init], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.308
+!MESSAGE XSCT command with result: [ps7_init], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.308
+!MESSAGE XSCT Command: [ps7_post_config], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.308
+!MESSAGE XSCT command with result: [ps7_post_config], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.308
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#0"}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.326
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#0"}], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.326
+!MESSAGE XSCT Command: [dow C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_app/Debug/axi_gpio_app.elf], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.449
+!MESSAGE XSCT command with result: [dow C:/Users/Char/Documents/ECE_520/Fall_26/axi_gpio_caa/axi_gpio_vitis/axi_gpio_app/Debug/axi_gpio_app.elf], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.449
+!MESSAGE XSCT Command: [configparams force-mem-access 0], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.465
+!MESSAGE XSCT command with result: [configparams force-mem-access 0], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.577
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#0"}], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.593
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#0"}], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.593
+!MESSAGE XSCT Command: [con], Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:33:16.609
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-8: Launching Debugger_axi_gpio_app-Default
+
+!ENTRY com.xilinx.sdk.utils 1 0 2026-09-28 19:33:16.609
+!MESSAGE Tool usage for 'TCF_APP_DEBUG' updated to '5'
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:47:34.938
+!MESSAGE XSCT Command: [disconnect tcfchan#5], Thread: Thread-511
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:47:34.938
+!MESSAGE XSCT Command: [disconnect tcfchan#11], Thread: Thread-513
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:47:34.938
+!MESSAGE XSCT command with result: [disconnect tcfchan#5], Result: [{Format=channel "tcfchan#5" closed, Time=1790650054938, Code=1}, ]. Thread: Thread-511
+
+!ENTRY com.xilinx.sdk.utils 0 0 2026-09-28 19:47:34.943
+!MESSAGE XSCT command with result: [disconnect tcfchan#11], Result: [null, ]. Thread: Thread-513
